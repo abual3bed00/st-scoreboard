@@ -1,4 +1,18 @@
-# ST Scoreboard (QBCore) — v1.2.1
+
+# st-scoreboard (QBCore) 
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Version-1.0.0-brightgreen.svg" alt="Version">
+  <img src="https://img.shields.io/badge/FiveM-CFX-red.svg" alt="FiveM">
+  <img src="https://img.shields.io/badge/QBCore-Compatible-blue.svg" alt="QBCore">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
+</div>
+
+<p align="center">
+  <b>st-scoreboard</b><br>
+  <i>Advanced scoreboard for Fivem support qbcore framework with modern ui with support </i>
+</p>
+
 
 > **وصف سريع:** سكربت Scoreboard احترافي لـ **QBCore** يعرض معلومات السيرفر واللاعبين + إحصائيات الوظائف + حالة الأنشطة/السرقات/الخطف (متاح/غير متاح/مشغول) مع إظهار IDs فوق اللاعبين عند فتح اللوحة.
 
@@ -177,3 +191,20 @@ TriggerEvent('qb-scoreboard:server:SetActivityBusy', 'bankrobbery', false)
 ## 📄 License / Credits
 - Author: `ii_abual3bed | stdev`
 - Resource: `st-scoreboard`
+
+---
+## 📞 Support / الدعم
+
+### 🆘 **Getting Help / الحصول على المساعدة**
+
+- 💬 **Discord**: [Join Server](https://discord.gg/HCskVYZPtB)
+
+
+---
+
+<div align="center">
+  <h3>⭐ Don't forget to leave a star! ⭐</h3>
+  <p>Developed with ❤️ by ii_abual3bed | stdev</p>
+  
+  [⬆ Back to Top](#-st-scoreboard--(QBCore) )
+</div>
